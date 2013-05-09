@@ -9,4 +9,5 @@ python News.py in terminal.
 Author
 =====
 Tarang Patel
+
 Email : tarangrockr@gmail.com
