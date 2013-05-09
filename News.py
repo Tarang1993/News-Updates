@@ -1,5 +1,5 @@
 # Author: Tarang Patel
-# Email : tarangrockr@gmail.co,
+# Email : tarangrockr@gmail.com,
 
 #!/usr/bin/python
 
